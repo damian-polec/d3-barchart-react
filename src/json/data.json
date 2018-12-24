@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Building 1",
+        "height": 500
+    },
+    {
+        "name": "Building 2",
+        "height": 789
+    },
+    {
+        "name": "Building 3",
+        "height": 256
+    },
+    {
+        "name": "Building 4",
+        "height": 124
+    },
+    {
+        "name": "Building 5",
+        "height": 989
+    },
+    {
+        "name": "Building 6",
+        "height": 565
+    }
+]
